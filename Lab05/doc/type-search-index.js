@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Lab05","l":"Lab05Server.ClientHandler"},{"p":"Lab05","l":"Lab05ChatClient"},{"p":"Lab05","l":"Lab05Server"},{"p":"Lab05","l":"Lab05ChatClient.SendButtonListener"}];updateSearchResults();
